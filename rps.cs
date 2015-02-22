@@ -44,7 +44,8 @@ public class rps
 				break;
 			
 			default:
-				Console.WriteLine("You need to input a 1, 2, or 3.");
+				Console.WriteLine("You need to input
+				1, 2, or 3.");
 				System.Environment.Exit(1);
 				break;
 		}
